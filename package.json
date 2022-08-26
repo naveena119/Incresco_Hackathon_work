@@ -1,0 +1,24 @@
+{
+  "name": "incresco_hackathon_work",
+  "version": "1.0.0",
+  "description": "vhh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveena119/Incresco_Hackathon_work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveena119/Incresco_Hackathon_work/issues"
+  },
+  "homepage": "https://github.com/naveena119/Incresco_Hackathon_work#readme",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
